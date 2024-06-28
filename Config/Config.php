@@ -1,6 +1,6 @@
 <?php
-const base_url = "http://localhost/biblioteca/";
-const host = "biblioteca-gino.calqrho6uobh.us-east-1.rds.amazonaws.com";
+const base_url = "http://localhost/BIBLIOTECA-PHP/";
+const host = "biblioteca.c4rm5ableevq.us-east-1.rds.amazonaws.com";
 const user = "admin";
 const pass = "admin123456789";
 const port = "3306";

@@ -85,6 +85,27 @@
                     <li><a class="treeview-item" target="_blank" href="<?php echo base_url; ?>Prestamos/pdf"><i class="icon fa fa-file-pdf-o"></i> Libros Prestados</a></li>
                 </ul>
             </li>
+
+            <li class="imageness">
+                <img src="https://d3kqc4xchktgsf.cloudfront.net/Captura+de+pantalla+2024-06-14+111336.png" alt="">
+                <img src="https://d3kqc4xchktgsf.cloudfront.net/Captura+de+pantalla+2024-06-14+111350.png" alt="">
+                <img src="https://d3kqc4xchktgsf.cloudfront.net/Captura+de+pantalla+2024-06-14+111403.png" alt="">
+                <img src="https://d3kqc4xchktgsf.cloudfront.net/Captura+de+pantalla+2024-06-14+111421.png" alt="">
+                <img src="https://d3kqc4xchktgsf.cloudfront.net/Captura+de+pantalla+2024-06-14+120451.png" alt="">
+            </li>
         </ul>
+        <style>
+            .imageness {
+    display: flex;
+    flex-direction: column; /* Establece la dirección como columna */
+    align-items: center; /* Centra los elementos horizontalmente */
+}
+
+.imageness img {
+    width: 100px; /* Ancho de la imagen */
+    height: 100px; /* Alto de la imagen */
+    margin-bottom: 10px; /* Espacio entre cada imagen */
+}
+        </style>
     </aside>
     <main class="app-content">
